@@ -49,6 +49,7 @@ def slowloris():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                           memoryhackers.org
     """)
     websiteagain = input("[*] Enter the web site name example [www.google.com] .: ")
     callmebitch.system("clear")
@@ -60,6 +61,7 @@ def pingsender():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                           memoryhackers.org
     """)
     selectos = input("[*] Select your OS [WINDOWS/LINUX].: ")
     if selectos == "Windows" or selectos == "WINDOWS":
@@ -89,6 +91,7 @@ def tcpsynflood():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                           memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     """)
@@ -139,6 +142,7 @@ def ms12():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                          memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     """)
@@ -195,6 +199,7 @@ def nego():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                          memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     """)
@@ -245,6 +250,7 @@ def ms15():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                          memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     """)
@@ -297,6 +303,7 @@ def nfsd():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                          memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     """)
@@ -347,6 +354,7 @@ def wsdos():
 ===============================================================================
                           AUTHOR : $ B A S H
                          ====================
+                           memoryhackers.org
     1.) Start the attack
     2.) Info about dos.
     
@@ -416,6 +424,7 @@ if wehaveadeal == "Y" or wehaveadeal == "y":
      ░                                                               
 |~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~| 
                     instagram; yigitaydn.py
+                       memoryhackers.org
     1-) DDoS Attack Screen
     2-) Scanner Screen
 |~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~| 
@@ -436,6 +445,7 @@ if wehaveadeal == "Y" or wehaveadeal == "y":
      ░                                                               
 |~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~| 
                     instagram; yigitaydn.py
+                        memoryhackers.org
               D E N I A L    O F    S E R V I C E
     1-) TCP SYN Flooder
     2-) Microsoft Remote Desktop Use-After-Free DoS
@@ -489,6 +499,7 @@ if wehaveadeal == "Y" or wehaveadeal == "y":
 |~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~| 
                     instagram; yigitaydn.py
                          S C A N N E R
+                       memoryhackers.org
 |~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~ ------- ~| 
     """) 
         scanner = input("[*] Enter IP or Website Name.: ")
